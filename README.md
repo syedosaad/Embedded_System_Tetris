@@ -6,9 +6,9 @@
 -The game displays on an LT24 LCD screen and uses the board's physical inputs for controls.
 
 ## Authors
-Shikha Tripathi
-Saaduddin Syed
-Manyan Wong
+Saaduddin Syed,
+Shikha Tripathi,
+Manyan Wong,
 Harini Nagarathinam
 
 ## Overview
